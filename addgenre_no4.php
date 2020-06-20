@@ -4,13 +4,13 @@ require "functions_no4.php";
 		if(inputgenre($_POST) > 0){
 			echo "
 				<script> alert('Data Berhasil Ditambahkan');
-						 document.location.href = 'home.php' ;
+						 document.location.href = 'addgenre_no4.php' ;
 				</script>
 			";
 		}else{
 				echo "
 				<script> alert('Data Gagal Ditambahkan');
-						 document.location.href = 'home.php';
+						 document.location.href = 'addgenre_no4.php';
 				</script>
 			";
 		}

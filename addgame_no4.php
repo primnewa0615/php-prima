@@ -10,7 +10,7 @@ require "functions_no4.php";
 		}else{
 				echo "
 				<script> alert('Data Gagal Ditambahkan');
-						 document.location.href = 'home.php';
+						 document.location.href = 'addgame_no4.php';
 				</script>
 			";
 		}
@@ -30,9 +30,10 @@ require "functions_no4.php";
 			<h1><span class="putih">DW-</span><span class="merah">Game Center</span></h1>
 		</div>
 		<div class="kanan">
-			<a href="addstock.php">Add Stock</a>
+			<a href="index_no4.php">List Game</a>
+			<a href="addstock_no4.php">Add Stock</a>
 			<a href="addgenre_no4.php">Add Genre</a>
-			<a href="addgame.php">Add Game</a>
+			<a href="addgame_no4.php">Add Game</a>
 		</div>
 </div>
 
