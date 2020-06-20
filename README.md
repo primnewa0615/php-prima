@@ -3,6 +3,11 @@ dumbways batch 17 c 2
 dijalankan menggunakan xampp.
 db : mysql
 
+
+Jawaban soal no 1.
+kita di persilahkan memasukan jarak dulu karena di soal jaraknya tidak ditentukan,
+namun ada masalah saat menampilkan waktu papasan, karna masih kurangnya wawasan saya saat mengolah pembulatan dengan jam
+
 Jawaban soal no 2.
 1.  input kombinasi password yang teridiri dari minimal 8 karakter yang mengandung 1 huruf kecil,
     1 huruf besar, 1, spesial karakter,dan 1 nomor.
