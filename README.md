@@ -14,3 +14,13 @@ Jawaban soal no 2.
 1.  input 1 kata
 2.  lalu klik  button submit
 3.  lalu akan tampil kata yang di input pada point 1 dengan cetakan miring
+
+ Jawaban soal no 4
+ 
+ untuk soal jawaban nomor4 terdapat beberapa file seperti image, file.db, file.php.
+ untuk bisa menggunakan aplikasi dengan baik maka memerlukan folder tambahan "img" yang digunakan untuk menyimpan gambar yang sudah disipan di server.
+  pada menu index user bisa memilih game yang tersedia untuk dibeli.
+  setelah masuk ke halaman beli maka user dipersilahkan mengisi jumlah serial number yang akan dia beli. kemudian setalah di klik buy. maka akan langsung kembali ke halaman index dan stock game yang tadi sudah dibeli berkurang.
+  
+  di halaman index juga bisa menampilkan daftar game sesuai genre.
+  untuk menambahkan game hanya bisa dengan menginput kan id yang sudah di input kan sebelumnya.
